@@ -106,6 +106,8 @@ sudo apt-get install jenkins -y
   unzip awscliv2.zip
   sudo ./aws/install
   aws configure
+  ---AND TO CHECK----
+  aws configure list
   ```
 
   - Install **kubectl** (Master machine)(<a href="https://github.com/DevMadhup/DevOps-Tools-Installations/blob/main/Kubectl/Kubectl.sh">Setup kubectl </a>)
